@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer | Especializado en Next.js y MongoDB</h3>
 
 <p align="center">
-  <a href="https://portafolio-aguscba.vercel.app" target="_blank">
+  <a href="https://portfolio-agustin-cordoba.vercel.app/es" target="_blank">
     <img src="https://img.shields.io/badge/-Portafolio-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio">
   </a>
   <a href="https://www.linkedin.com/in/agustin-cordoba" target="_blank">
